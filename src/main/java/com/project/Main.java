@@ -1,13 +1,15 @@
-package com.project.leetcode20220801;
+package com.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LeetCode20220801Application {
+public class Main {
 
     public static void main(String[] args) {
-        SpringApplication.run(LeetCode20220801Application.class, args);
+
+        SpringApplication.run(Main.class, args);
+
     }
 
 }
